@@ -1,6 +1,10 @@
-# test-project
+# HelloVue(x)-project
 
-> A Vue.js project
+> A Vue(x) demo project about using the Vuex core concepts focused with namespaced modules in object-style.
+
+# Project URL
+
+> [codesandbox](https://codesandbox.io/s/github/ivopauly/HelloVuex)
 
 ## Build Setup
 
